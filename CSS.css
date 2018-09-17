@@ -1,0 +1,10 @@
+.center {
+    text-align: right;
+    font-size: 16px;
+    font-color: white;
+}
+.border {
+    border: 4px #d090eb;
+    border-radius: 8px;
+    padding: 5px 3px 5px 3px;
+}
